@@ -23,7 +23,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
   font-style: normal;
-  color: #F4AA27; }
+  color: #f42727; }
 
 * {
   margin: 0;
@@ -89,7 +89,7 @@ p {
   font-size: 16px;
   font-weight: 400;
   line-height: 28px;
-  color: #F4AA27;
+  color: #f42727;
   margin: 0px; }
   @media (max-width: 767px) {
     p {
@@ -129,11 +129,11 @@ p {
   -webkit-box-shadow: 0px 5px 8px 0px rgb(255, 230, 187, 0.5);
   -moz-box-shadow: 0px 5px 8px 0px rgb(255, 230, 187, 0.5);
   box-shadow: 0px 5px 8px 0px  rgb(255, 230, 187, 0.5);
-  background: linear-gradient(90deg,  #F4AA27 0%, #664e2c 100%)!important; 
+  background: linear-gradient(90deg,  #f42727 0%, #662c2c 100%)!important; 
 
   text-transform: uppercase; }
   .main-btn:hover {
-    background: linear-gradient(90deg,  #442903 0%, #F4AA27 100%)!important; 
+    background: linear-gradient(90deg,  #440303 0%, #f42727 100%)!important; 
     color: white
     }
   .main-btn.main-btn-2 {
@@ -144,15 +144,15 @@ p {
     -moz-box-shadow: none;
     box-shadow: none; }
     .main-btn.main-btn-2:hover {
-      background-color:#442903   ;
+      background-color:#440303   ;
       color: #fff;
-      border-color:#442903   ; }
+      border-color:#440303   ; }
 
 /*===== All Section Title Style =====*/
 .section-title .title {
   font-weight: 700;
   font-size: 45px;
-  color: #442903 ;
+  color: #440303 ;
   padding-bottom: 20px; }
   @media (max-width: 767px) {
     .section-title .title {
@@ -260,7 +260,7 @@ p {
       .navigation .navbar .navbar-nav .nav-item a {
         text-transform: uppercase;
         font-size: 16px;
-        color: #F4AA27;
+        color: #f42727;
         font-weight: 500;
         position: relative;
 
@@ -274,7 +274,7 @@ p {
           content: '';
           width: 3px;
           height: 0;
-          background-color:#442903  ;
+          background-color:#440303  ;
           left: 50%;
           top: -50px;
           -webkit-transform: translateX(-50%);
@@ -302,7 +302,7 @@ p {
             .navigation .navbar .navbar-nav .nav-item a::before {
               display: none; } }
       .navigation .navbar .navbar-nav .nav-item.active a, .navigation .navbar .navbar-nav .nav-item:hover a {
-        color:#442903  ; }
+        color:#440303  ; }
         .navigation .navbar .navbar-nav .nav-item.active a::before, .navigation .navbar .navbar-nav .nav-item:hover a::before {
           height: 45px; }
 
@@ -333,7 +333,7 @@ p {
   position: relative; }
   .header-content-right .sub-title {
     font-size: 30px;
-    color:#442903   ;
+    color:#440303   ;
     
     padding-bottom: 15px; }
     @media (max-width: 767px) {
@@ -370,7 +370,7 @@ p {
       content: '';
       width: 100%;
       height: 2px;
-      background-color:#442903   ;
+      background-color:#440303   ;
       left: -102.5%;
       top: 50%;
    }
@@ -391,8 +391,8 @@ p {
         text-align: center; }
         .header-social .header-social-icon ul li a:hover {
           color: #fff;
-          background: linear-gradient(90deg,  rgb(212, 139, 12) 0%, #442903 90%)!important; 
-          border-color: #442903;   }
+          background: linear-gradient(90deg,  rgb(212, 139, 12) 0%, #440303 90%)!important; 
+          border-color: #440303;   }
 
 /*===========================
         3.ABOUT css 
@@ -442,7 +442,7 @@ p {
 
 .single-service {
   background-color: white  ;
-  border: 1px solid #442903 ;
+  border: 1px solid #440303 ;
   border-radius: 5px;
   padding: 25px ;
   margin:30px;
@@ -453,14 +453,14 @@ p {
       margin: 20px 5px !important;} }
   .single-service .service-icon i {
     font-size: 60px;
-    color:#442903  ;
+    color:#440303  ;
     line-height: 56px; }
   .single-service .service-content {
     margin-top: 11px; }
     .single-service .service-content .service-title a {
       font-size: 22px;
       font-weight: 600;
-      color: #442903;
+      color: #440303;
       margin-bottom: 20px;
       }
      
@@ -469,7 +469,7 @@ p {
     background-color: rgba(250, 249, 249,1);
   }
     .single-service.text-center.mt-30 p {
-      color: #442903 ;
+      color: #440303 ;
       font-weight: 400;
     }
   
@@ -559,9 +559,9 @@ p {
       line-height: 64px;
       text-align: center;
       border-radius: 50%;
-      color: #442903;
+      color: #440303;
       background-color: white;
-      border: 3px solid #442903;
+      border: 3px solid #440303;
       -webkit-transition: all 0.3s ease-out 0s;
       -moz-transition: all 0.3s ease-out 0s;
       -ms-transition: all 0.3s ease-out 0s;
@@ -574,7 +574,7 @@ p {
           line-height: 50px;
           font-size: 20px; } }
       .footer-content ul li a:hover {
-        background-color: #442903  ;
+        background-color: #440303  ;
         color: white; }
 
   .footer-copyright .copyright-text p {
